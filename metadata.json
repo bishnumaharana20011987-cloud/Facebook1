@@ -1,0 +1,6 @@
+{
+  "name": "SocialBook - Connect & Share",
+  "description": "A modern, full-featured Facebook-inspired social network with dynamic feeds, stories, rich reactions, comments, live floating messenger, marketplace, and interactive profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
